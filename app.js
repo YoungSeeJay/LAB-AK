@@ -161,3 +161,4 @@ $(icons[5]).on("click", function(){
 
 //the above code has been refactored but it could also reqiure some corrections
 
+//Author: Jonasz Cieślar
