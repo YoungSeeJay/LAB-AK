@@ -1,0 +1,66 @@
+body{
+  margin: 0px;
+}
+
+.navbar-text{
+  margin-right: 1%;
+}
+
+h5{
+  margin-top:0.5rem;
+}
+
+div.row{
+  margin: 0;
+}
+
+.col-5{
+    padding: 0;
+}
+
+label.btn.btn-primary{
+  width: 230px;
+  height: 38px;
+  text-align: left;
+}
+
+.table-bordered{
+  float: left;
+  margin-right: 5%;
+}
+
+#headerRow{
+  height: 51px;
+}
+
+#nameSpan{
+  height: 20px;
+}
+
+#headerCell{
+  font-size: 17px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.fa-chevron-circle-left{
+  vertical-align: middle; 
+  float: left; 
+  line-height: 24px;
+  font-size: 1.8rem;
+}
+
+.fa-chevron-circle-right{
+  vertical-align: middle; 
+  float: right; 
+  line-height: 24px;
+  font-size: 1.8rem;
+}
+
+table{
+  height: 326px;
+}
+
+td{
+  width: 667px;
+} 
