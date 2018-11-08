@@ -1,0 +1,13 @@
+.fa-chevron-circle-left{
+    vertical-align: middle; 
+    float: left; 
+    line-height: 24px;
+    font-size: 1.8rem;
+  }
+  
+  .fa-chevron-circle-right{
+    vertical-align: middle; 
+    float: right; 
+    line-height: 24px;
+    font-size: 1.8rem;
+  }
