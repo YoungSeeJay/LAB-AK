@@ -4,9 +4,9 @@ var testsList = $("ol li");
 
 var patients = [
 	{
-		name: "Adam Kaczmarski",
+		name: "Andrzej Wysocki",
 		book: "11/09/K.",
-		pesel: 88092415612,
+		pesel: 9832341247,
 		t1: "WR (VDRL)",
 		t2: "IgG poziom w surowicy",
 		t3: "przeciwciała odpornościowe (odczyn Coombsa pośredni)",
