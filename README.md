@@ -8,4 +8,3 @@
 ### Zawiera Frameworki i biblioteki:
 #### -Bootstrap
 #### -jQuery
-<img src="lab-screen-sm.png">
